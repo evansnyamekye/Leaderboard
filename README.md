@@ -48,8 +48,7 @@
 <!-- Live Demo -->
 
 ## 🚀 Live Demo <a name="live-demo"></a>
-None for now
-<!-- <a href="https://webpack-starter-woad.vercel.app/"> See Project 🚀</a> -->
+Not Available
 
 <!-- GETTING STARTED -->
 
@@ -64,7 +63,7 @@ To get get a local copy up and running, you can follow these simple steps:
 Clone the repository to your local machine using the following command:
 
 ```sh
-  git clone git@github.com/ticoniq/Leaderboard
+https://github.com/evansnyamekye/Leaderboard.git
 ```
 Navigate to the project directory:
 
@@ -92,7 +91,7 @@ That's it! With these simple steps, you should be able to get up and running wit
 
 To build your application, run `npm run build`. This will create a `dist` directory containing the compiled application code.
 
-To run your application in development mode, run `npm run dev`. This will start a development server on port 3000.
+To run your application in development mode, run `npm run dev`. This will start a development server on port 8080.
 
 
 <!-- ### Run tests
@@ -116,14 +115,14 @@ Example command:
 
 <!-- > Mention all of the collaborators of this project. -->
 
-👤 **Okolie Tochukwu**
+👤 **Evans Kofi Nyamekye**
 
-- GitHub: [@ticoniq](https://github.com/ticoniq)
-- Twitter: [@ticoniq_](https://twitter.com/ticoniq_)
-- LinkedIn: [ticoniq](https://linkedin.com/in/ticoniq)
-
+- GitHub: [evansnyamekye](https://github.com/evansnyamekye)
+- Twitter: [@nyamekye2131](https://twitter.com/nyamekye2131)
+- LinkedIn: [Evans Kofi Nyamekye](https://www.linkedin.com/in/evans-kofi-nyamekye-1980a4117/)
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 <!-- CONTRIBUTING -->
 
 ## 🤝 Contributing <a name="contributing"></a>
@@ -138,7 +137,7 @@ Feel free to check the [issues page](../../issues/).
 
 ## ⭐️ Show your support <a name="support"></a>
 
-> I am excited to share with you my latest project on Github. As you know, Github is an essential tool for developers to showcase their skills, collaborate with others, and contribute to open-source projects.
+> I am excited to share with you my latest project on Github. As you know, Github is an essential tool for developers to showcase their skills, collaborate with others, and contribute to open-source projects. By supporting my project, you can help me improve my Github workflow skills and learn how to set up HTML & CSS linters.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -146,14 +145,10 @@ Feel free to check the [issues page](../../issues/).
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-> I would like thank Microverse Review Team and especially Daniel Larbi Addo for professional review feedback My Coding Partners, wish I could mention your names. cheers!! to you all. I, Evans, and my Family.😀
+>  I would like thank Microverse Review Team and especially Daniel Larbi Addo for professional review feedback My Coding Partners, wish I could mention your names. cheers!! to you all. I, Evans, and my Family.😀
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- FAQ (optional) -->
   
 ## 📝 License <a name="license"></a>
-
-This project is [MIT](./LICENSE) licensed.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
