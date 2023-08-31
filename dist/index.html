@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   <!-- font awesome CDN -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css"
+  integrity="sha512-+4zCK9k+qNFUR5X+cKL9EIR+ZOhtIloNl9GIKS57V1MyNsYpYcUrUeQc9vNfzsWfV28IaLL3i96P9sdNyeRssA=="
+  crossorigin="anonymous" />
+<!-- Google font -->
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link
+  href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,300&family=Poppins:ital,wght@0,100;0,200;0,300;0,500;0,600;0,700;0,800;0,900;1,200&display=swap"
+  rel="stylesheet">
+    <title>
+        LeaderBoard
+    </title>
+<script defer src="main.js"></script></head>
+<body>
+  <!-- start of Main  -->
+  <main>
+    <p class="msg"></p>
+    <section class="container">
+        <h1>Leader Board</h1>
+        <div class="flex">
+            <div class="card item">
+                <div class="card-header">
+                    <h3>Recent Scores</h3>
+                    <button class="refresh">Refresh
+                        <span class="load"></span>
+                    </button>
+                </div>
+                <ul class="ul">
+                    <li>Name: 100</li>
+                    <li>Name: 100</li>
+                    <li>Name: 100</li>
+                    <li>Name: 100</li>
+                    <li>Name: 100</li>
+                    <li>Name: 100</li>
+                    <li>Name: 100</li>
+                </ul>
+            </div>
+            <div class="new-score item">
+                <h3>Add your Score</h3>
+                <div class="form">
+                    <input type="text" placeholder="Your name" class="name">
+                    <input type="number" max="100" placeholder="Your Score" class="score">
+                    <button type="submit" class="add-user">Submit</button>
+                </div>
+            </div>
+        </div>
+    </section>
+  </main>
+</body>
+</html>
+
