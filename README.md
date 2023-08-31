@@ -146,7 +146,7 @@ Feel free to check the [issues page](../../issues/).
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-> I would like to thank the Microverse community for their support and guidance throughout this project. Special thanks to my peers and mentors for their constructive feedback and advice.
+> I would like thank Microverse Review Team and especially Daniel Larbi Addo for professional review feedback My Coding Partners, wish I could mention your names. cheers!! to you all. I, Evans, and my Family.😀
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
