@@ -88,7 +88,7 @@ const addUser = async (e) => {
 const getUsers = async () => {
   const loader = document.createElement('img');
   loader.className = 'spinner';
-  loader.src = 'Spinner';
+  loader.src = Spinner;
   loadImg.appendChild(loader);
 
   try {
