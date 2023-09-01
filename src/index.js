@@ -97,7 +97,7 @@ const getUsers = async () => {
       const data = await response.json();
       const users = data.result;
 
-      ul.innerHTM = '';
+      ul.innerHTML = '';
 
       if (users.length === 0) {
         const list = document.createElement('li');
