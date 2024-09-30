@@ -88,7 +88,7 @@ const addUser = async (e) => {
 const getUsers = async () => {
   const loader = document.createElement('img');
   loader.className = 'spinner';
-  loader.src = Spinner;
+  loader.src = 'Spinner';
   loadImg.appendChild(loader);
 
   try {
@@ -97,7 +97,7 @@ const getUsers = async () => {
       const data = await response.json();
       const users = data.result;
 
-      ul.innerHTML = '';
+      ul.innerHTM = '';
 
       if (users.length === 0) {
         const list = document.createElement('li');
